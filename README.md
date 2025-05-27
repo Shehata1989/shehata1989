@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm a Front-End Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Front-End+Specialist+with+React+%26+Next.js;Tailwind+CSS+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;Front-End+Specialist+with+React+%26+Next.js;Tailwind+CSS+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 <div align="center">
